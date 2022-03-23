@@ -1,0 +1,9 @@
+{
+	"ip":"play.VynxSmp.tk",
+	"port": 25710,
+	"name": "VynxBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Vynux500) (Vynux500)",
+	"login-cmd":"/login (Vynux500)"
+}
